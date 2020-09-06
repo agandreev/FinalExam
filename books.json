@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 2.4890286626708829,
+      "Title": "W l",
+      "NumberOfPages": 178,
+      "Rating": 1.7286638080741577,
+      "Year": 2018
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 8.8455135169650951,
+      "Title": "  ds",
+      "NumberOfPages": 376,
+      "Rating": 4.8996268142478669,
+      "Year": 1995
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 18.48284271847589,
+      "Title": "  o",
+      "NumberOfPages": 508,
+      "Rating": 1.9880809481200208,
+      "Year": 2017
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 8.8513012858346585,
+      "Title": "I DWsx  jc dA Z",
+      "NumberOfPages": 351,
+      "Rating": 3.4546388604001321,
+      "Year": 2010
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 10.127067863534702,
+      "Title": "  zTj     g ",
+      "NumberOfPages": 286,
+      "Rating": 4.8601565947104977,
+      "Year": 2010
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 11.720852681305656,
+      "Title": " e MJ w",
+      "NumberOfPages": 536,
+      "Rating": 0.11947370279555847,
+      "Year": 1995
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 3.7587337278568809,
+      "Title": " kMpK RXy eip h",
+      "NumberOfPages": 323,
+      "Rating": 2.9209555042539517,
+      "Year": 2005
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 6.992184904866007,
+      "Title": " j xe FK  z ",
+      "NumberOfPages": 389,
+      "Rating": 4.8127445219143965,
+      "Year": 2002
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 9.26392705890533,
+      "Title": "mVvA x HDZWHo  ",
+      "NumberOfPages": 85,
+      "Rating": 4.4115206787416339,
+      "Year": 2006
+    },
+    {
+      "__type": "Book:#BookstoreLibrary",
+      "Price": 6.3061208279366241,
+      "Title": "   x MU  YUiD",
+      "NumberOfPages": 69,
+      "Rating": 4.8600572398212076,
+      "Year": 2013
+    },
+    {
+      "Price": 1,
+      "Title": "Товар1"
+    }
+  ]
+}
